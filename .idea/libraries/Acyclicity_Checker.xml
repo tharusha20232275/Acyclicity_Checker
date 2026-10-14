@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Acyclicity_Checker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Acyclicity_Checker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
